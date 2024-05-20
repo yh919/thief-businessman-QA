@@ -1,5 +1,8 @@
 # Thief Message Validator
 
+![Thief Message Validator](https://imgur.com/GCTkUd9)
+
+
 ## Overview
 
 The Thief Message Validator is a JavaScript utility that checks if a message can be constructed using the characters available in a given newspaper string. This can be useful for applications where you need to verify if a specific set of characters (message) can be created from another set (newspaper).
