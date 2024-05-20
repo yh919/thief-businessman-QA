@@ -1,6 +1,6 @@
 # Thief Message Validator
 
-![Thief Message Validator](https://imgur.com/GCTkUd9)
+![Thief Message Validator]([https://imgur.com/GCTkUd9](https://i.imgur.com/GCTkUd9.png))
 
 
 ## Overview
