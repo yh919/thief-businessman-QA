@@ -21,13 +21,3 @@ function countChars(newspaperStr, char) {
 
     return true;
   }
-
-  let newspaper = "this is a sample newspaper text";
-
-  let message = " sample";
-  console.log("Example One");
-  console.log(generateTheifMessage(newspaper, message)); // true
-
-  message = "1";
-  console.log("Example Two");
-  console.log(generateTheifMessage(newspaper, message)); // false
